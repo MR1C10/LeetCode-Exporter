@@ -65,5 +65,3 @@ Gera um Excel como este:
 |-----|----------------------------------|-------------|--------------------------|
 | 1   | Two Sum                          | Fácil       | Array, Hash Table        |
 | 2   | Add Two Numbers                  | Médio       | Linked List, Math        |
-
-### Feito com ❤️ para devs que querem estudar LeetCode de forma organizada!
